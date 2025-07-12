@@ -1,0 +1,600 @@
+CSC|100|First|CSC102|Laboratory in Shakespeare|2
+CSC|100|First|CSC104|Principles of World History|2
+CSC|100|First|CSC106|Theory of Organic Chemistry|3
+CSC|100|Second|CSC103|Introduction to Organic Chemistry|2
+CSC|100|Second|CSC105|Fundamentals of Marketing|2
+CSC|100|Second|CSC107|Applications of Marketing|3
+CSC|200|First|CSC202|Basics of World History|3
+CSC|200|First|CSC204|Introduction to Cognitive Psychology|3
+CSC|200|First|CSC206|Principles of Mechanics|3
+CSC|200|Second|CSC203|Introduction to Algebra|2
+CSC|200|Second|CSC205|Theory of Auditing|2
+CSC|200|Second|CSC207|Introduction to Auditing|2
+CSC|300|First|CSC302|Fundamentals of Public Health|3
+CSC|300|First|CSC304|Laboratory in Algebra|3
+CSC|300|First|CSC306|Theory of Microeconomics|2
+CSC|300|Second|CSC303|Fundamentals of World History|2
+CSC|300|Second|CSC305|Introduction to Circuits|2
+CSC|300|Second|CSC307|Advanced Human Rights|3
+CSC|400|First|CSC402|Fundamentals of Human Rights|3
+CSC|400|First|CSC404|Basics of Shakespeare|3
+CSC|400|First|CSC406|Advanced Public Health|3
+CSC|400|Second|CSC403|Basics of Microeconomics|3
+CSC|400|Second|CSC405|Theory of Algebra|2
+CSC|400|Second|CSC407|Fundamentals of Literary Theory|3
+CSC|500|First|CSC502|Principles of Microeconomics|2
+CSC|500|First|CSC504|Fundamentals of Literary Theory|2
+CSC|500|First|CSC506|Laboratory in Literary Theory|3
+CSC|500|Second|CSC503|Theory of Auditing|3
+CSC|500|Second|CSC505|Principles of Circuits|2
+CSC|500|Second|CSC507|Topics in Auditing|3
+EEE|100|First|EEE102|Fundamentals of Public Health|3
+EEE|100|First|EEE104|Introduction to Programming|3
+EEE|100|First|EEE106|Topics in Cognitive Psychology|2
+EEE|100|Second|EEE103|Fundamentals of Shakespeare|2
+EEE|100|Second|EEE105|Basics of Criminology|2
+EEE|100|Second|EEE107|Topics in Anatomy|2
+EEE|200|First|EEE202|Applications of Human Rights|3
+EEE|200|First|EEE204|Basics of Criminology|2
+EEE|200|First|EEE206|Fundamentals of World History|3
+EEE|200|Second|EEE203|Theory of World History|2
+EEE|200|Second|EEE205|Theory of Soil Science|2
+EEE|200|Second|EEE207|Principles of Mechanics|3
+EEE|300|First|EEE302|Seminar in Genetics|2
+EEE|300|First|EEE304|Laboratory in Circuits|2
+EEE|300|First|EEE306|Introduction to Programming|2
+EEE|300|Second|EEE303|Introduction to Public Health|3
+EEE|300|Second|EEE305|Theory of Anatomy|3
+EEE|300|Second|EEE307|Introduction to Human Rights|3
+EEE|400|First|EEE402|Basics of Circuits|2
+EEE|400|First|EEE404|Applications of Ethics|2
+EEE|400|First|EEE406|Seminar in Soil Science|2
+EEE|400|Second|EEE403|Seminar in Anatomy|3
+EEE|400|Second|EEE405|Introduction to Microeconomics|2
+EEE|400|Second|EEE407|Basics of Criminology|2
+EEE|500|First|EEE502|Laboratory in Auditing|3
+EEE|500|First|EEE504|Applications of Cognitive Psychology|2
+EEE|500|First|EEE506|Topics in Mechanics|3
+EEE|500|Second|EEE503|Seminar in International Relations|3
+EEE|500|Second|EEE505|Basics of Human Rights|3
+EEE|500|Second|EEE507|Basics of Organic Chemistry|2
+MTH|100|First|MTH102|Introduction to Algebra|3
+MTH|100|First|MTH104|Topics in Human Rights|2
+MTH|100|First|MTH106|Basics of Human Rights|3
+MTH|100|Second|MTH103|Laboratory in Human Rights|3
+MTH|100|Second|MTH105|Basics of Anatomy|3
+MTH|100|Second|MTH107|Basics of Anatomy|2
+MTH|200|First|MTH202|Applications of Mechanics|3
+MTH|200|First|MTH204|Topics in Soil Science|3
+MTH|200|First|MTH206|Principles of Soil Science|2
+MTH|200|Second|MTH203|Laboratory in Cognitive Psychology|3
+MTH|200|Second|MTH205|Laboratory in Literary Theory|3
+MTH|200|Second|MTH207|Introduction to Shakespeare|3
+MTH|300|First|MTH302|Fundamentals of Ethics|2
+MTH|300|First|MTH304|Laboratory in Microeconomics|3
+MTH|300|First|MTH306|Theory of Literary Theory|3
+MTH|300|Second|MTH303|Laboratory in Anatomy|2
+MTH|300|Second|MTH305|Topics in Human Rights|3
+MTH|300|Second|MTH307|Theory of Ethics|2
+MTH|400|First|MTH402|Basics of Cognitive Psychology|3
+MTH|400|First|MTH404|Fundamentals of Shakespeare|3
+MTH|400|First|MTH406|Principles of Anatomy|2
+MTH|400|Second|MTH403|Laboratory in Algebra|3
+MTH|400|Second|MTH405|Basics of Literary Theory|3
+MTH|400|Second|MTH407|Applications of Organic Chemistry|3
+MTH|500|First|MTH502|Seminar in Auditing|3
+MTH|500|First|MTH504|Fundamentals of Mechanics|3
+MTH|500|First|MTH506|Principles of Literary Theory|3
+MTH|500|Second|MTH503|Seminar in Public Health|3
+MTH|500|Second|MTH505|Applications of Cognitive Psychology|3
+MTH|500|Second|MTH507|Introduction to Auditing|2
+PHY|100|First|PHY102|Principles of Human Rights|3
+PHY|100|First|PHY104|Fundamentals of Soil Science|2
+PHY|100|First|PHY106|Applications of Marketing|3
+PHY|100|Second|PHY103|Introduction to Shakespeare|2
+PHY|100|Second|PHY105|Seminar in Shakespeare|3
+PHY|100|Second|PHY107|Fundamentals of Public Health|3
+PHY|200|First|PHY202|Applications of Soil Science|2
+PHY|200|First|PHY204|Introduction to International Relations|2
+PHY|200|First|PHY206|Seminar in Genetics|3
+PHY|200|Second|PHY203|Theory of Public Health|2
+PHY|200|Second|PHY205|Advanced Soil Science|3
+PHY|200|Second|PHY207|Theory of Human Rights|2
+PHY|300|First|PHY302|Basics of Genetics|3
+PHY|300|First|PHY304|Topics in Mechanics|2
+PHY|300|First|PHY306|Basics of Genetics|3
+PHY|300|Second|PHY303|Seminar in Anatomy|3
+PHY|300|Second|PHY305|Seminar in Algebra|3
+PHY|300|Second|PHY307|Introduction to Criminology|2
+PHY|400|First|PHY402|Fundamentals of Microeconomics|2
+PHY|400|First|PHY404|Advanced Ethics|2
+PHY|400|First|PHY406|Seminar in Shakespeare|3
+PHY|400|Second|PHY403|Principles of Criminology|3
+PHY|400|Second|PHY405|Principles of Programming|2
+PHY|400|Second|PHY407|Fundamentals of World History|3
+PHY|500|First|PHY502|Principles of Criminology|3
+PHY|500|First|PHY504|Fundamentals of Shakespeare|2
+PHY|500|First|PHY506|Seminar in Shakespeare|3
+PHY|500|Second|PHY503|Fundamentals of Human Rights|3
+PHY|500|Second|PHY505|Basics of Public Health|3
+PHY|500|Second|PHY507|Seminar in Microeconomics|2
+CHM|100|First|CHM102|Laboratory in Human Rights|2
+CHM|100|First|CHM104|Advanced Microeconomics|2
+CHM|100|First|CHM106|Principles of Circuits|2
+CHM|100|Second|CHM103|Principles of World History|2
+CHM|100|Second|CHM105|Laboratory in Ethics|2
+CHM|100|Second|CHM107|Laboratory in Anatomy|3
+CHM|200|First|CHM202|Introduction to Auditing|2
+CHM|200|First|CHM204|Advanced Literary Theory|3
+CHM|200|First|CHM206|Topics in Public Health|2
+CHM|200|Second|CHM203|Basics of Mechanics|2
+CHM|200|Second|CHM205|Applications of World History|2
+CHM|200|Second|CHM207|Theory of Anatomy|3
+CHM|300|First|CHM302|Introduction to Programming|2
+CHM|300|First|CHM304|Fundamentals of Algebra|2
+CHM|300|First|CHM306|Theory of International Relations|3
+CHM|300|Second|CHM303|Laboratory in Circuits|2
+CHM|300|Second|CHM305|Applications of International Relations|2
+CHM|300|Second|CHM307|Introduction to Programming|2
+CHM|400|First|CHM402|Principles of Human Rights|3
+CHM|400|First|CHM404|Basics of Organic Chemistry|2
+CHM|400|First|CHM406|Advanced Microeconomics|3
+CHM|400|Second|CHM403|Seminar in Auditing|2
+CHM|400|Second|CHM405|Fundamentals of Literary Theory|2
+CHM|400|Second|CHM407|Applications of Cognitive Psychology|2
+CHM|500|First|CHM502|Advanced Microeconomics|3
+CHM|500|First|CHM504|Principles of Auditing|2
+CHM|500|First|CHM506|Principles of Literary Theory|2
+CHM|500|Second|CHM503|Fundamentals of Criminology|2
+CHM|500|Second|CHM505|Applications of Marketing|2
+CHM|500|Second|CHM507|Laboratory in International Relations|3
+BIO|100|First|BIO102|Laboratory in Criminology|2
+BIO|100|First|BIO104|Fundamentals of Human Rights|2
+BIO|100|First|BIO106|Advanced Shakespeare|3
+BIO|100|Second|BIO103|Fundamentals of Anatomy|3
+BIO|100|Second|BIO105|Basics of World History|2
+BIO|100|Second|BIO107|Applications of Circuits|3
+BIO|200|First|BIO202|Introduction to Marketing|3
+BIO|200|First|BIO204|Principles of Anatomy|3
+BIO|200|First|BIO206|Theory of Marketing|2
+BIO|200|Second|BIO203|Applications of World History|2
+BIO|200|Second|BIO205|Basics of Ethics|3
+BIO|200|Second|BIO207|Theory of Literary Theory|3
+BIO|300|First|BIO302|Laboratory in Criminology|2
+BIO|300|First|BIO304|Advanced Shakespeare|2
+BIO|300|First|BIO306|Seminar in Soil Science|3
+BIO|300|Second|BIO303|Seminar in Auditing|3
+BIO|300|Second|BIO305|Laboratory in World History|3
+BIO|300|Second|BIO307|Principles of Soil Science|3
+BIO|400|First|BIO402|Basics of Shakespeare|2
+BIO|400|First|BIO404|Basics of Marketing|2
+BIO|400|First|BIO406|Basics of Genetics|2
+BIO|400|Second|BIO403|Seminar in Mechanics|2
+BIO|400|Second|BIO405|Fundamentals of Programming|3
+BIO|400|Second|BIO407|Basics of Programming|3
+BIO|500|First|BIO502|Advanced Cognitive Psychology|2
+BIO|500|First|BIO504|Introduction to Genetics|3
+BIO|500|First|BIO506|Theory of Algebra|3
+BIO|500|Second|BIO503|Seminar in Human Rights|3
+BIO|500|Second|BIO505|Basics of Literary Theory|3
+BIO|500|Second|BIO507|Fundamentals of Circuits|2
+ACC|100|First|ACC102|Principles of Microeconomics|3
+ACC|100|First|ACC104|Topics in Shakespeare|2
+ACC|100|First|ACC106|Theory of Public Health|2
+ACC|100|Second|ACC103|Introduction to Programming|3
+ACC|100|Second|ACC105|Laboratory in Cognitive Psychology|2
+ACC|100|Second|ACC107|Principles of Genetics|3
+ACC|200|First|ACC202|Advanced Soil Science|2
+ACC|200|First|ACC204|Introduction to Public Health|2
+ACC|200|First|ACC206|Advanced Programming|2
+ACC|200|Second|ACC203|Laboratory in Ethics|2
+ACC|200|Second|ACC205|Fundamentals of Soil Science|2
+ACC|200|Second|ACC207|Basics of Marketing|3
+ACC|300|First|ACC302|Laboratory in Literary Theory|2
+ACC|300|First|ACC304|Seminar in Algebra|2
+ACC|300|First|ACC306|Fundamentals of Criminology|2
+ACC|300|Second|ACC303|Fundamentals of Algebra|3
+ACC|300|Second|ACC305|Theory of Criminology|2
+ACC|300|Second|ACC307|Fundamentals of Soil Science|3
+ACC|400|First|ACC402|Fundamentals of Marketing|2
+ACC|400|First|ACC404|Laboratory in Public Health|3
+ACC|400|First|ACC406|Topics in Microeconomics|3
+ACC|400|Second|ACC403|Advanced Cognitive Psychology|2
+ACC|400|Second|ACC405|Seminar in International Relations|3
+ACC|400|Second|ACC407|Seminar in International Relations|3
+ACC|500|First|ACC502|Introduction to Programming|2
+ACC|500|First|ACC504|Topics in Marketing|2
+ACC|500|First|ACC506|Theory of Criminology|3
+ACC|500|Second|ACC503|Advanced Auditing|2
+ACC|500|Second|ACC505|Seminar in Marketing|2
+ACC|500|Second|ACC507|Advanced International Relations|3
+BUS|100|First|BUS102|Principles of Auditing|3
+BUS|100|First|BUS104|Fundamentals of Algebra|3
+BUS|100|First|BUS106|Basics of Shakespeare|3
+BUS|100|Second|BUS103|Theory of Microeconomics|2
+BUS|100|Second|BUS105|Fundamentals of Ethics|2
+BUS|100|Second|BUS107|Applications of Soil Science|2
+BUS|200|First|BUS202|Applications of Literary Theory|2
+BUS|200|First|BUS204|Advanced Auditing|3
+BUS|200|First|BUS206|Basics of Literary Theory|2
+BUS|200|Second|BUS203|Advanced Organic Chemistry|3
+BUS|200|Second|BUS205|Basics of Microeconomics|3
+BUS|200|Second|BUS207|Laboratory in Genetics|3
+BUS|300|First|BUS302|Principles of Literary Theory|2
+BUS|300|First|BUS304|Theory of Public Health|3
+BUS|300|First|BUS306|Introduction to Organic Chemistry|3
+BUS|300|Second|BUS303|Introduction to Cognitive Psychology|3
+BUS|300|Second|BUS305|Topics in Anatomy|3
+BUS|300|Second|BUS307|Topics in International Relations|2
+BUS|400|First|BUS402|Basics of Microeconomics|3
+BUS|400|First|BUS404|Fundamentals of Ethics|3
+BUS|400|First|BUS406|Laboratory in Criminology|3
+BUS|400|Second|BUS403|Topics in International Relations|3
+BUS|400|Second|BUS405|Topics in Human Rights|3
+BUS|400|Second|BUS407|Theory of International Relations|2
+BUS|500|First|BUS502|Basics of Genetics|3
+BUS|500|First|BUS504|Seminar in Organic Chemistry|2
+BUS|500|First|BUS506|Applications of Ethics|2
+BUS|500|Second|BUS503|Laboratory in Anatomy|2
+BUS|500|Second|BUS505|Fundamentals of Anatomy|3
+BUS|500|Second|BUS507|Seminar in World History|2
+ECO|100|First|ECO102|Seminar in Genetics|2
+ECO|100|First|ECO104|Basics of Criminology|3
+ECO|100|First|ECO106|Advanced Auditing|3
+ECO|100|Second|ECO103|Advanced Programming|3
+ECO|100|Second|ECO105|Principles of Genetics|2
+ECO|100|Second|ECO107|Topics in International Relations|2
+ECO|200|First|ECO202|Fundamentals of Organic Chemistry|3
+ECO|200|First|ECO204|Principles of Soil Science|2
+ECO|200|First|ECO206|Introduction to Criminology|3
+ECO|200|Second|ECO203|Basics of International Relations|3
+ECO|200|Second|ECO205|Principles of Literary Theory|2
+ECO|200|Second|ECO207|Advanced Organic Chemistry|3
+ECO|300|First|ECO302|Laboratory in Genetics|3
+ECO|300|First|ECO304|Introduction to Anatomy|3
+ECO|300|First|ECO306|Introduction to Algebra|2
+ECO|300|Second|ECO303|Introduction to Programming|3
+ECO|300|Second|ECO305|Principles of Marketing|3
+ECO|300|Second|ECO307|Fundamentals of Cognitive Psychology|3
+ECO|400|First|ECO402|Introduction to Marketing|3
+ECO|400|First|ECO404|Advanced Cognitive Psychology|3
+ECO|400|First|ECO406|Seminar in Public Health|3
+ECO|400|Second|ECO403|Advanced Shakespeare|2
+ECO|400|Second|ECO405|Applications of Cognitive Psychology|2
+ECO|400|Second|ECO407|Principles of Programming|3
+ECO|500|First|ECO502|Advanced Cognitive Psychology|3
+ECO|500|First|ECO504|Theory of Shakespeare|3
+ECO|500|First|ECO506|Principles of International Relations|2
+ECO|500|Second|ECO503|Principles of Literary Theory|3
+ECO|500|Second|ECO505|Fundamentals of Marketing|2
+ECO|500|Second|ECO507|Principles of Public Health|3
+ENG|100|First|ENG102|Advanced Programming|2
+ENG|100|First|ENG104|Theory of Shakespeare|3
+ENG|100|First|ENG106|Topics in Mechanics|2
+ENG|100|Second|ENG103|Theory of Public Health|3
+ENG|100|Second|ENG105|Seminar in Organic Chemistry|3
+ENG|100|Second|ENG107|Introduction to Mechanics|2
+ENG|200|First|ENG202|Fundamentals of Human Rights|2
+ENG|200|First|ENG204|Introduction to Human Rights|3
+ENG|200|First|ENG206|Basics of Genetics|2
+ENG|200|Second|ENG203|Laboratory in Public Health|3
+ENG|200|Second|ENG205|Introduction to Human Rights|3
+ENG|200|Second|ENG207|Topics in Cognitive Psychology|2
+ENG|300|First|ENG302|Topics in Organic Chemistry|2
+ENG|300|First|ENG304|Applications of Auditing|2
+ENG|300|First|ENG306|Seminar in Anatomy|2
+ENG|300|Second|ENG303|Applications of Genetics|2
+ENG|300|Second|ENG305|Theory of Public Health|3
+ENG|300|Second|ENG307|Principles of Literary Theory|3
+ENG|400|First|ENG402|Applications of Marketing|2
+ENG|400|First|ENG404|Introduction to World History|3
+ENG|400|First|ENG406|Applications of Criminology|3
+ENG|400|Second|ENG403|Applications of Human Rights|3
+ENG|400|Second|ENG405|Seminar in Auditing|2
+ENG|400|Second|ENG407|Theory of Soil Science|2
+ENG|500|First|ENG502|Basics of Mechanics|3
+ENG|500|First|ENG504|Theory of Public Health|2
+ENG|500|First|ENG506|Theory of Programming|3
+ENG|500|Second|ENG503|Theory of Algebra|2
+ENG|500|Second|ENG505|Fundamentals of Cognitive Psychology|3
+ENG|500|Second|ENG507|Fundamentals of Mechanics|2
+LIT|100|First|LIT102|Laboratory in Human Rights|2
+LIT|100|First|LIT104|Fundamentals of International Relations|3
+LIT|100|First|LIT106|Topics in Cognitive Psychology|3
+LIT|100|Second|LIT103|Principles of World History|3
+LIT|100|Second|LIT105|Fundamentals of Marketing|3
+LIT|100|Second|LIT107|Advanced Public Health|3
+LIT|200|First|LIT202|Introduction to Criminology|3
+LIT|200|First|LIT204|Basics of Marketing|2
+LIT|200|First|LIT206|Basics of Organic Chemistry|2
+LIT|200|Second|LIT203|Applications of Mechanics|2
+LIT|200|Second|LIT205|Advanced Soil Science|3
+LIT|200|Second|LIT207|Basics of Auditing|2
+LIT|300|First|LIT302|Theory of Public Health|3
+LIT|300|First|LIT304|Topics in Ethics|2
+LIT|300|First|LIT306|Seminar in Circuits|3
+LIT|300|Second|LIT303|Fundamentals of Anatomy|3
+LIT|300|Second|LIT305|Introduction to Human Rights|2
+LIT|300|Second|LIT307|Principles of Human Rights|3
+LIT|400|First|LIT402|Theory of Circuits|2
+LIT|400|First|LIT404|Introduction to World History|3
+LIT|400|First|LIT406|Topics in Human Rights|3
+LIT|400|Second|LIT403|Principles of Cognitive Psychology|3
+LIT|400|Second|LIT405|Fundamentals of Algebra|2
+LIT|400|Second|LIT407|Principles of Public Health|2
+LIT|500|First|LIT502|Laboratory in Cognitive Psychology|2
+LIT|500|First|LIT504|Principles of Genetics|2
+LIT|500|First|LIT506|Seminar in Marketing|3
+LIT|500|Second|LIT503|Basics of Literary Theory|3
+LIT|500|Second|LIT505|Introduction to Human Rights|2
+LIT|500|Second|LIT507|Seminar in Circuits|3
+PSY|100|First|PSY102|Fundamentals of Genetics|2
+PSY|100|First|PSY104|Advanced Cognitive Psychology|2
+PSY|100|First|PSY106|Fundamentals of Anatomy|3
+PSY|100|Second|PSY103|Topics in Anatomy|2
+PSY|100|Second|PSY105|Seminar in Soil Science|2
+PSY|100|Second|PSY107|Principles of Genetics|2
+PSY|200|First|PSY202|Fundamentals of Shakespeare|2
+PSY|200|First|PSY204|Applications of Public Health|2
+PSY|200|First|PSY206|Principles of Algebra|3
+PSY|200|Second|PSY203|Introduction to World History|2
+PSY|200|Second|PSY205|Advanced Ethics|2
+PSY|200|Second|PSY207|Seminar in Circuits|3
+PSY|300|First|PSY302|Topics in Microeconomics|3
+PSY|300|First|PSY304|Fundamentals of Auditing|2
+PSY|300|First|PSY306|Principles of Circuits|3
+PSY|300|Second|PSY303|Laboratory in Ethics|3
+PSY|300|Second|PSY305|Applications of Human Rights|2
+PSY|300|Second|PSY307|Advanced Public Health|2
+PSY|400|First|PSY402|Advanced Algebra|3
+PSY|400|First|PSY404|Introduction to Algebra|2
+PSY|400|First|PSY406|Advanced Soil Science|3
+PSY|400|Second|PSY403|Applications of Genetics|3
+PSY|400|Second|PSY405|Topics in Mechanics|3
+PSY|400|Second|PSY407|Seminar in Criminology|2
+PSY|500|First|PSY502|Laboratory in Human Rights|2
+PSY|500|First|PSY504|Seminar in Circuits|3
+PSY|500|First|PSY506|Applications of Genetics|2
+PSY|500|Second|PSY503|Basics of International Relations|3
+PSY|500|Second|PSY505|Topics in Cognitive Psychology|2
+PSY|500|Second|PSY507|Applications of Cognitive Psychology|2
+SOC|100|First|SOC102|Seminar in Criminology|2
+SOC|100|First|SOC104|Fundamentals of World History|2
+SOC|100|First|SOC106|Laboratory in Circuits|2
+SOC|100|Second|SOC103|Fundamentals of Literary Theory|2
+SOC|100|Second|SOC105|Fundamentals of Circuits|2
+SOC|100|Second|SOC107|Theory of Mechanics|3
+SOC|200|First|SOC202|Topics in Genetics|2
+SOC|200|First|SOC204|Seminar in Mechanics|2
+SOC|200|First|SOC206|Applications of Circuits|3
+SOC|200|Second|SOC203|Principles of World History|2
+SOC|200|Second|SOC205|Topics in Human Rights|3
+SOC|200|Second|SOC207|Basics of Cognitive Psychology|3
+SOC|300|First|SOC302|Laboratory in Ethics|3
+SOC|300|First|SOC304|Principles of International Relations|3
+SOC|300|First|SOC306|Advanced World History|3
+SOC|300|Second|SOC303|Laboratory in Marketing|2
+SOC|300|Second|SOC305|Applications of Human Rights|2
+SOC|300|Second|SOC307|Topics in Public Health|2
+SOC|400|First|SOC402|Fundamentals of Genetics|3
+SOC|400|First|SOC404|Seminar in Microeconomics|3
+SOC|400|First|SOC406|Fundamentals of Criminology|3
+SOC|400|Second|SOC403|Principles of Algebra|2
+SOC|400|Second|SOC405|Principles of International Relations|3
+SOC|400|Second|SOC407|Principles of Mechanics|3
+SOC|500|First|SOC502|Basics of Human Rights|3
+SOC|500|First|SOC504|Laboratory in Cognitive Psychology|3
+SOC|500|First|SOC506|Advanced Anatomy|3
+SOC|500|Second|SOC503|Theory of Microeconomics|3
+SOC|500|Second|SOC505|Principles of Genetics|2
+SOC|500|Second|SOC507|Applications of Organic Chemistry|2
+LAW|100|First|LAW102|Principles of World History|3
+LAW|100|First|LAW104|Applications of Cognitive Psychology|3
+LAW|100|First|LAW106|Fundamentals of Anatomy|3
+LAW|100|Second|LAW103|Applications of Algebra|3
+LAW|100|Second|LAW105|Applications of Human Rights|3
+LAW|100|Second|LAW107|Topics in Genetics|2
+LAW|200|First|LAW202|Topics in Shakespeare|2
+LAW|200|First|LAW204|Seminar in Organic Chemistry|3
+LAW|200|First|LAW206|Basics of Circuits|3
+LAW|200|Second|LAW203|Introduction to Anatomy|3
+LAW|200|Second|LAW205|Introduction to Algebra|2
+LAW|200|Second|LAW207|Basics of Marketing|2
+LAW|300|First|LAW302|Principles of Mechanics|3
+LAW|300|First|LAW304|Topics in Organic Chemistry|2
+LAW|300|First|LAW306|Theory of Algebra|3
+LAW|300|Second|LAW303|Introduction to International Relations|2
+LAW|300|Second|LAW305|Fundamentals of Programming|2
+LAW|300|Second|LAW307|Basics of Literary Theory|3
+LAW|400|First|LAW402|Applications of Programming|3
+LAW|400|First|LAW404|Fundamentals of Literary Theory|3
+LAW|400|First|LAW406|Introduction to Human Rights|2
+LAW|400|Second|LAW403|Seminar in Organic Chemistry|3
+LAW|400|Second|LAW405|Introduction to Mechanics|2
+LAW|400|Second|LAW407|Seminar in Microeconomics|2
+LAW|500|First|LAW502|Seminar in Anatomy|3
+LAW|500|First|LAW504|Fundamentals of Literary Theory|3
+LAW|500|First|LAW506|Advanced Mechanics|2
+LAW|500|Second|LAW503|Principles of Auditing|3
+LAW|500|Second|LAW505|Theory of Mechanics|2
+LAW|500|Second|LAW507|Introduction to Auditing|2
+MED|100|First|MED102|Seminar in Circuits|3
+MED|100|First|MED104|Laboratory in Ethics|2
+MED|100|First|MED106|Seminar in Mechanics|3
+MED|100|Second|MED103|Topics in Marketing|2
+MED|100|Second|MED105|Basics of Microeconomics|3
+MED|100|Second|MED107|Advanced Genetics|3
+MED|200|First|MED202|Applications of Criminology|2
+MED|200|First|MED204|Seminar in Public Health|2
+MED|200|First|MED206|Basics of Human Rights|3
+MED|200|Second|MED203|Theory of Organic Chemistry|3
+MED|200|Second|MED205|Introduction to Public Health|3
+MED|200|Second|MED207|Applications of Literary Theory|2
+MED|300|First|MED302|Fundamentals of Programming|2
+MED|300|First|MED304|Seminar in International Relations|3
+MED|300|First|MED306|Topics in International Relations|2
+MED|300|Second|MED303|Laboratory in Mechanics|3
+MED|300|Second|MED305|Introduction to World History|2
+MED|300|Second|MED307|Advanced Ethics|3
+MED|400|First|MED402|Fundamentals of Microeconomics|3
+MED|400|First|MED404|Introduction to Ethics|3
+MED|400|First|MED406|Principles of Anatomy|2
+MED|400|Second|MED403|Advanced Human Rights|2
+MED|400|Second|MED405|Introduction to World History|2
+MED|400|Second|MED407|Applications of Algebra|3
+MED|500|First|MED502|Theory of Mechanics|3
+MED|500|First|MED504|Laboratory in Soil Science|2
+MED|500|First|MED506|Theory of Auditing|2
+MED|500|Second|MED503|Principles of Soil Science|3
+MED|500|Second|MED505|Topics in Mechanics|2
+MED|500|Second|MED507|Advanced Circuits|2
+NUR|100|First|NUR102|Topics in Mechanics|3
+NUR|100|First|NUR104|Topics in Organic Chemistry|3
+NUR|100|First|NUR106|Principles of Criminology|3
+NUR|100|Second|NUR103|Laboratory in Literary Theory|3
+NUR|100|Second|NUR105|Applications of Microeconomics|3
+NUR|100|Second|NUR107|Fundamentals of Algebra|3
+NUR|200|First|NUR202|Seminar in Organic Chemistry|2
+NUR|200|First|NUR204|Theory of Programming|3
+NUR|200|First|NUR206|Topics in Circuits|3
+NUR|200|Second|NUR203|Applications of Algebra|3
+NUR|200|Second|NUR205|Seminar in Criminology|2
+NUR|200|Second|NUR207|Advanced World History|2
+NUR|300|First|NUR302|Advanced Soil Science|2
+NUR|300|First|NUR304|Principles of Auditing|3
+NUR|300|First|NUR306|Basics of Genetics|3
+NUR|300|Second|NUR303|Advanced Cognitive Psychology|2
+NUR|300|Second|NUR305|Basics of Ethics|3
+NUR|300|Second|NUR307|Basics of Genetics|2
+NUR|400|First|NUR402|Basics of Shakespeare|3
+NUR|400|First|NUR404|Basics of Microeconomics|3
+NUR|400|First|NUR406|Theory of Genetics|3
+NUR|400|Second|NUR403|Applications of International Relations|2
+NUR|400|Second|NUR405|Topics in Microeconomics|2
+NUR|400|Second|NUR407|Fundamentals of Criminology|2
+NUR|500|First|NUR502|Seminar in International Relations|2
+NUR|500|First|NUR504|Topics in Auditing|3
+NUR|500|First|NUR506|Fundamentals of Shakespeare|3
+NUR|500|Second|NUR503|Theory of Criminology|3
+NUR|500|Second|NUR505|Laboratory in Genetics|3
+NUR|500|Second|NUR507|Applications of Shakespeare|3
+AGR|100|First|AGR102|Applications of Microeconomics|3
+AGR|100|First|AGR104|Seminar in Microeconomics|2
+AGR|100|First|AGR106|Applications of Programming|2
+AGR|100|Second|AGR103|Theory of Auditing|2
+AGR|100|Second|AGR105|Theory of Circuits|2
+AGR|100|Second|AGR107|Applications of Auditing|2
+AGR|200|First|AGR202|Laboratory in Organic Chemistry|2
+AGR|200|First|AGR204|Fundamentals of Public Health|2
+AGR|200|First|AGR206|Theory of Circuits|2
+AGR|200|Second|AGR203|Topics in Anatomy|3
+AGR|200|Second|AGR205|Fundamentals of Criminology|2
+AGR|200|Second|AGR207|Principles of International Relations|3
+AGR|300|First|AGR302|Principles of International Relations|3
+AGR|300|First|AGR304|Principles of Public Health|2
+AGR|300|First|AGR306|Fundamentals of Auditing|2
+AGR|300|Second|AGR303|Advanced Microeconomics|2
+AGR|300|Second|AGR305|Applications of Anatomy|2
+AGR|300|Second|AGR307|Principles of Microeconomics|2
+AGR|400|First|AGR402|Applications of Mechanics|2
+AGR|400|First|AGR404|Introduction to Soil Science|2
+AGR|400|First|AGR406|Applications of Anatomy|3
+AGR|400|Second|AGR403|Advanced Anatomy|3
+AGR|400|Second|AGR405|Laboratory in Shakespeare|2
+AGR|400|Second|AGR407|Advanced Shakespeare|3
+AGR|500|First|AGR502|Introduction to Programming|2
+AGR|500|First|AGR504|Topics in Circuits|2
+AGR|500|First|AGR506|Applications of Literary Theory|3
+AGR|500|Second|AGR503|Seminar in Mechanics|2
+AGR|500|Second|AGR505|Topics in Criminology|3
+AGR|500|Second|AGR507|Topics in Public Health|3
+POL|100|First|POL102|Advanced Programming|3
+POL|100|First|POL104|Laboratory in Ethics|2
+POL|100|First|POL106|Advanced Algebra|3
+POL|100|Second|POL103|Basics of Organic Chemistry|3
+POL|100|Second|POL105|Introduction to Ethics|2
+POL|100|Second|POL107|Basics of World History|3
+POL|200|First|POL202|Seminar in Algebra|2
+POL|200|First|POL204|Fundamentals of Criminology|3
+POL|200|First|POL206|Introduction to Algebra|3
+POL|200|Second|POL203|Topics in Marketing|2
+POL|200|Second|POL205|Introduction to Cognitive Psychology|2
+POL|200|Second|POL207|Seminar in Shakespeare|2
+POL|300|First|POL302|Laboratory in Microeconomics|3
+POL|300|First|POL304|Topics in Circuits|2
+POL|300|First|POL306|Fundamentals of Mechanics|3
+POL|300|Second|POL303|Introduction to Circuits|2
+POL|300|Second|POL305|Fundamentals of Organic Chemistry|2
+POL|300|Second|POL307|Advanced Cognitive Psychology|2
+POL|400|First|POL402|Seminar in Cognitive Psychology|2
+POL|400|First|POL404|Advanced International Relations|3
+POL|400|First|POL406|Seminar in Marketing|2
+POL|400|Second|POL403|Applications of Algebra|2
+POL|400|Second|POL405|Theory of Auditing|2
+POL|400|Second|POL407|Fundamentals of Criminology|2
+POL|500|First|POL502|Applications of Organic Chemistry|3
+POL|500|First|POL504|Seminar in Programming|3
+POL|500|First|POL506|Advanced Public Health|2
+POL|500|Second|POL503|Seminar in Ethics|2
+POL|500|Second|POL505|Introduction to Criminology|2
+POL|500|Second|POL507|Laboratory in Cognitive Psychology|3
+PHL|100|First|PHL102|Topics in Marketing|3
+PHL|100|First|PHL104|Fundamentals of Criminology|2
+PHL|100|First|PHL106|Principles of International Relations|3
+PHL|100|Second|PHL103|Applications of Algebra|2
+PHL|100|Second|PHL105|Applications of Circuits|2
+PHL|100|Second|PHL107|Applications of Criminology|3
+PHL|200|First|PHL202|Advanced Ethics|2
+PHL|200|First|PHL204|Advanced Programming|2
+PHL|200|First|PHL206|Fundamentals of Criminology|3
+PHL|200|Second|PHL203|Principles of Soil Science|2
+PHL|200|Second|PHL205|Theory of Criminology|3
+PHL|200|Second|PHL207|Basics of Organic Chemistry|3
+PHL|300|First|PHL302|Seminar in Public Health|3
+PHL|300|First|PHL304|Basics of Auditing|3
+PHL|300|First|PHL306|Advanced Shakespeare|2
+PHL|300|Second|PHL303|Applications of Ethics|3
+PHL|300|Second|PHL305|Theory of Criminology|3
+PHL|300|Second|PHL307|Basics of World History|3
+PHL|400|First|PHL402|Basics of Programming|3
+PHL|400|First|PHL404|Theory of Genetics|3
+PHL|400|First|PHL406|Topics in Microeconomics|3
+PHL|400|Second|PHL403|Applications of Genetics|3
+PHL|400|Second|PHL405|Laboratory in Circuits|3
+PHL|400|Second|PHL407|Seminar in Auditing|3
+PHL|500|First|PHL502|Laboratory in Circuits|2
+PHL|500|First|PHL504|Applications of Public Health|2
+PHL|500|First|PHL506|Advanced Programming|2
+PHL|500|Second|PHL503|Seminar in Criminology|2
+PHL|500|Second|PHL505|Fundamentals of Public Health|3
+PHL|500|Second|PHL507|Principles of Soil Science|2
+HIS|100|First|HIS102|Seminar in Criminology|2
+HIS|100|First|HIS104|Basics of Literary Theory|2
+HIS|100|First|HIS106|Introduction to Circuits|3
+HIS|100|Second|HIS103|Theory of Microeconomics|3
+HIS|100|Second|HIS105|Basics of Anatomy|3
+HIS|100|Second|HIS107|Advanced Cognitive Psychology|3
+HIS|200|First|HIS202|Introduction to Cognitive Psychology|3
+HIS|200|First|HIS204|Introduction to Marketing|3
+HIS|200|First|HIS206|Basics of Ethics|2
+HIS|200|Second|HIS203|Basics of Ethics|2
+HIS|200|Second|HIS205|Applications of Public Health|2
+HIS|200|Second|HIS207|Applications of Ethics|3
+HIS|300|First|HIS302|Laboratory in Soil Science|3
+HIS|300|First|HIS304|Theory of World History|2
+HIS|300|First|HIS306|Seminar in Shakespeare|2
+HIS|300|Second|HIS303|Advanced Public Health|3
+HIS|300|Second|HIS305|Topics in Ethics|2
+HIS|300|Second|HIS307|Basics of Anatomy|2
+HIS|400|First|HIS402|Basics of Auditing|3
+HIS|400|First|HIS404|Fundamentals of Microeconomics|2
+HIS|400|First|HIS406|Advanced Human Rights|2
+HIS|400|Second|HIS403|Theory of Criminology|2
+HIS|400|Second|HIS405|Laboratory in Anatomy|3
+HIS|400|Second|HIS407|Seminar in Shakespeare|3
+HIS|500|First|HIS502|Fundamentals of Ethics|2
+HIS|500|First|HIS504|Fundamentals of International Relations|3
+HIS|500|First|HIS506|Advanced Algebra|3
+HIS|500|Second|HIS503|Fundamentals of Cognitive Psychology|2
+HIS|500|Second|HIS505|Advanced Circuits|3
+HIS|500|Second|HIS507|Theory of Circuits|3

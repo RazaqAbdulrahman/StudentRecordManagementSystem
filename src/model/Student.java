@@ -7,16 +7,18 @@ public class Student {
     private String name;
     private String matricNumber;
     private String department;
+    private int level;
     private List<Course> courses;
 
-    public Student(String name, String matricNumber, String department) {
+    public Student(String name, String matricNumber, String department, int level) {
         this.name = name;
         this.matricNumber = matricNumber;
         this.department = department;
+        this.level = level;
         this.courses = new ArrayList<>();
     }
 
-
+    // Getters and Setters
     public String getName() {
         return name;
     }
@@ -29,45 +31,22 @@ public class Student {
         return department;
     }
 
+    public int getLevel() {
+        return level;
+    }
+
     public List<Course> getCourses() {
         return courses;
     }
 
-    // Add a course
-    public void enrollInCourse(Course course) {
-        courses.add(course);
+    public void setCourses(List<Course> courses) {
+        this.courses = courses;
     }
 
-    // Set grade for a course
-    public boolean updateGrade(String courseCode, String grade) {
-        for (Course course : courses) {
-            if (course.getCourseCode().equalsIgnoreCase(courseCode)) {
-                course.setGrade(grade);
-                return true;
-            }
-        }
-        return false; // Course not found
-    }
-
-    // Optional: Print all courses
-    public void printCourses() {
-        if (courses.isEmpty()) {
-            System.out.println("No courses enrolled.");
-        } else {
-            for (Course c : courses) {
-                System.out.println(c);
-            }
-        }
-    }
-
-    @Override
-    public String toString() {
-        return "Name: " + name + ", Matric: " + matricNumber + ", Dept: " + department;
-    }
-
-    public void printBioData() {
-        System.out.println("Name: " + name);
-        System.out.println("Matric Number: " + matricNumber);
-        System.out.println("Department: " + department);
+    // Optional: Add method to add a single course
+    public void addCourse(Course course) {
+        this.courses.add(course);
     }
 }
+
+

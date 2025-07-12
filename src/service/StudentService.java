@@ -1,31 +1,25 @@
 package service;
 
 import model.Student;
+
 import java.util.ArrayList;
 import java.util.List;
 
 public class StudentService {
-    private List<Student> studentList = new ArrayList<>();
+
+    private final List<Student> students = new ArrayList<>();
 
     public void addStudent(Student student) {
-        studentList.add(student);
-        System.out.println("Student added successfully.");
+        students.add(student);
+        System.out.println("✅ Student added: " + student.getName() + " (" + student.getMatricNumber() + ")");
     }
 
-    public void viewAllStudents() {
-        if (studentList.isEmpty()) {
-            System.out.println("No students found.");
-            return;
-        }
-
-        for (Student student : studentList) {
-            student.printBioData();
-            System.out.println("-----------------------");
-        }
+    public List<Student> getAllStudents() {
+        return students;
     }
 
     public Student findByMatricNumber(String matricNumber) {
-        for (Student student : studentList) {
+        for (Student student : students) {
             if (student.getMatricNumber().equalsIgnoreCase(matricNumber)) {
                 return student;
             }
@@ -34,16 +28,36 @@ public class StudentService {
     }
 
     public boolean deleteStudent(String matricNumber) {
-        Student found = findByMatricNumber(matricNumber);
-        if (found != null) {
-            studentList.remove(found);
+        Student student = findByMatricNumber(matricNumber);
+        if (student != null) {
+            students.remove(student);
+            System.out.println("❌ Student removed: " + student.getName());
             return true;
         }
         return false;
     }
-    public List<Student> getStudentList() {
-        return studentList;
+
+    public void viewAllStudents() {
+        if (students.isEmpty()) {
+            System.out.println("⚠️ No students found.");
+            return;
+        }
+
+        for (Student student : students) {
+            System.out.println("🎓 Name: " + student.getName());
+            System.out.println("   Matric: " + student.getMatricNumber());
+            System.out.println("   Dept: " + student.getDepartment());
+            System.out.println("   Level: " + student.getLevel());
+            System.out.println("   Registered Courses:");
+            student.getCourses().forEach(course ->
+                    System.out.println("     • " + course.getCourseCode() + " - " + course.getCourseTitle() + " (" + course.getUnit() + " units)")
+            );
+            System.out.println("-----------------------------------");
+        }
     }
 
-
+    public List<Student> getStudentList() {
+        return students;
+    }
 }
+
